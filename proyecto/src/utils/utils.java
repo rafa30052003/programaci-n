@@ -57,5 +57,5 @@ public class utils {
         }while(!valid);
         return numero;
 	}
-	kmak
+	
 }
